@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test_suite_test">
+    <sys_atf_test_suite_test action="INSERT_OR_UPDATE">
+        <abort_on_failure>false</abort_on_failure>
+        <order>1</order>
+        <sys_class_name>sys_atf_test_suite_test</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-24 19:43:08</sys_created_on>
+        <sys_id>657e5f48db1210102573fe1b68961986</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>abdad3c4db1210102573fe1b689619ea</sys_name>
+        <sys_package display_value="CCW1856" source="x_cdltd_ccw1856">b5a05473908010107f4468f7a3a96f5c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CCW1856">b5a05473908010107f4468f7a3a96f5c</sys_scope>
+        <sys_update_name>sys_atf_test_suite_test_657e5f48db1210102573fe1b68961986</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-24 19:43:08</sys_updated_on>
+        <test display_value="cicd testing">abdad3c4db1210102573fe1b689619ea</test>
+        <test_suite display_value="CICD test suite">368d1748db1210102573fe1b68961951</test_suite>
+    </sys_atf_test_suite_test>
+</record_update>
